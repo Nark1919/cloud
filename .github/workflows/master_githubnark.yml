@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'githubnark'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4975A731AB8F4B04B4F6A67122A9D2C8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8BD67008FCE74D51B469323B1A8EB41B }}
           package: '*.jar'
